@@ -35,23 +35,23 @@ A responsive and animated weather web app built using **HTML**, **CSS**, and **J
 
 ## 📂 Project Structure
 
-weather-app/
-├── index.html # UI structure
-├── style.css # Styling and animation
-└── script.js # Weather logic using fetch
+## weather-app/
+- index.html # UI structure 
+- style.css # Styling and animation 
+- script.js # Weather logic using fetch
 
 ---
 
 ## ⚙️ Setup Instructions
 
-## 1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/jeevangowdan/weather-app.git
    cd weather-app
 
    --------------------------------------
-## 2. Open script.js and replace the apiKey with your own:
+## Open script.js and replace the apiKey with your own:
     const apiKey = "YOUR_API_KEY_HERE";
    ----------------------------------
    
-## 3. Open index.html in your browser and test!
+## Open index.html in your browser and test!
